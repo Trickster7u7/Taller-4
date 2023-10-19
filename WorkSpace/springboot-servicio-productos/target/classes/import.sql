@@ -1,0 +1,10 @@
+INSERT INTO productos (nombre, precio, create_at) VALUES ('HP I5 16 Ram', 15000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('DELL I3 16 Ram', 10000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('SONY I5 16 Ram', 17000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('HP I7 32 Ram', 27000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('ACER I5 8 Ram', 12000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('Sony I5 16 Ram', 17000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('MSI I5 16 Ram', 16000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('LENOVO I3 4 Ram', 8000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('HAWEI I5 8 Ram', 13000, NOW());
+INSERT INTO productos (nombre, precio, create_at) VALUES ('ASUS I7 16 Ram', 24000, NOW());
